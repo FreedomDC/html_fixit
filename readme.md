@@ -65,5 +65,5 @@ Using [the HTML validator](https://validator.w3.org/nu/#textarea), describe what
 - What does `title` do?
 - What information do images need, and why?
 - What's the difference between `head` and `body`?
-- Based on the results of Part 1, write the bare minimum HTML you need to have a "valid" webpage.
+- Based on the messages from the validator, write the bare minimum HTML you need to have a "valid" webpage.
 
